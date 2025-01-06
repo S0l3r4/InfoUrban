@@ -1,4 +1,4 @@
-## InfoUrban
+# InfoUrban
 #Descrição
 O InfoUrban é um projeto desenvolvido para ajudar na gestão de melhorias urbanas por meio de sugestões e votações. Os cidadãos podem cadastrar melhorias para sua cidade e votar na relevância das propostas.
 
